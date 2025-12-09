@@ -6,5 +6,13 @@ public class Second {
   public String a(){
     return "hekki";
   }
+
+  public String logout(){
+      return "logout";
+  }
+
+  public String forgot(){
+      return "forgot";
+  }
   
 }
